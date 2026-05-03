@@ -24,7 +24,7 @@ This will install ShutApp Desktop in your `shell:startup` (in order to run it on
 Open terminal and run the following command to install ShutApp Desktop:
 
 ```sh
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/S2009-dev/ShutApp-Desktop/refs/heads/main/installers/linux.bat)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/S2009-dev/ShutApp-Desktop/refs/heads/main/installers/linux.sh)"
 ```
 
 This will install ShutApp Desktop in `/usr/local/bin` and create a service to run it on startup.  

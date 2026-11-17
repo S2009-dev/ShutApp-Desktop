@@ -1,4 +1,10 @@
-# 💻 ShutApp Desktop
+# ⚠️ Archived Project
+
+This repository is archived as I'm currently moving it to Gitlab.
+New repo: https://gitlab.com/S2009/ShutApp/Desktop
+⚠️ This link will be active as soon as possible, when the v2 of the app will be released.
+
+## 💻 ShutApp Desktop
 
 This is the desktop version of ShutApp that allows you to control your PC remotely with an Android device. It will open a WebSocket server on port `7421`.  
 **⚠️ I didn't implement any security measures, so don't use this in a public network.**

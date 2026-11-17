@@ -1,7 +1,7 @@
 # ⚠️ Archived Project
 
 This repository is archived as I'm currently moving it to Gitlab.
-New repo: https://gitlab.com/S2009/ShutApp/Desktop
+New repo: https://gitlab.com/S2009/ShutApp-Desktop
 ⚠️ This link will be active as soon as possible, when the v2 of the app will be released.
 
 ## 💻 ShutApp Desktop
